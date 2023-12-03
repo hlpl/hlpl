@@ -1,0 +1,27 @@
+{
+  "name": "hlpl",
+  "version": "1.0.2",
+  "description": "HLPL, or Human Life Programming Language, is a programming language for everyday human life.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlpl/hlpl.git"
+  },
+  "keywords": [
+    "hlpl",
+    "Human Life Programming Language"
+  ],
+  "bin": {
+    "hlpl": "./bin.js"
+  },
+  "author": "Ahmida Bendjoudi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hlpl/hlpl/issues"
+  },
+  "homepage": "https://github.com/hlpl/hlpl#readme",
+  "dependencies": {}
+}
